@@ -19,6 +19,11 @@ venv/
 # Large datasets
 train-test.csv
 validation.csv
+predictions.csv
+december-predictions.csv
+
+# Readme files
+*.md
 
 
 # Scaler
@@ -28,3 +33,6 @@ scaler.pkl
 # OS
 .DS_Store
 Thumbs.db
+
+Report.docx
+freight-rate-ml-assessment.pdf
